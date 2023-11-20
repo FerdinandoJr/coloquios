@@ -1,0 +1,155 @@
+[
+    {
+        "date": "09/12/2020",
+        "speakers": [
+            {
+                "name": "Paula Campigotto",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Computação Natural e Mercado Financeiro"
+    },
+    {
+        "date": "10/02/2021",
+        "speakers": [
+            {
+                "name": "Alan Fachini",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Pray -> Vote -> Stake - The age of decentralized consensus"
+    },
+    {
+        "date": "24/02/2021",
+        "speakers": [
+            {
+                "name": "João Battisti",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Mecanismos de consenso para Blockchain"
+    },
+    {
+        "date": "26/05/2021",
+        "speakers": [
+            {
+                "name": "Robson Silva Júnior",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "0 to hero - smart contracts"
+    },
+    {
+        "date": "02/06/2021",
+        "speakers": [
+            {
+                "name": "Adilson Junior",
+                "birth_date": "",
+                "cpf": ""
+            },
+            {
+                "name": "Vinícius Gasparini",
+                "birth_date": "28/05/1996",
+                "cpf": "09584682903"
+            }            
+        ],
+        "event": "Por que Programação Competitiva?"
+    },
+    {
+        "date": "22/06/2021",
+        "speakers": [
+            {
+                "name": "Paulo Torrens",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Coindução e Bissimulação - Escrevedo provas sobre o infinito"
+    },
+    {
+        "date": "14/07/2021",
+        "speakers": [
+            {
+                "name": "Alan Fachini",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Introduction to Rust"
+    },
+    {
+        "date": "21/07/2021",
+        "speakers": [
+            {
+                "name": "Maycon Amaro",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Gradual Typing - The best of both worlds"
+    },
+    {
+        "date": "28/07/2021",
+        "speakers": [
+            {
+                "name": "Juarez Sampaio",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "My first F# dollar"
+    },
+    {
+        "date": "11/05/2022",
+        "speakers": [
+            {
+                "name": "Renan Samuel Silva",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Colosseum: Uma maratona de IAs"
+    },
+    {
+        "date": "24/08/2022",
+        "speakers": [
+            {
+                "name": "Paulo Torrens",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Compilando com Continuações"
+    },
+    {
+        "date": "21/09/2022",
+        "speakers": [
+            {
+                "name": "João Guilherme",
+                "birth_date": "",
+                "cpf": ""
+            },
+            {
+                "name": "César Eduardo",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "DEIXE DE SER TROUXA: Aprenda Linux"
+    },
+    {
+        "date": "28/09/2022",
+        "speakers": [
+            {
+                "name": "João Dematte",
+                "birth_date": "",
+                "cpf": ""
+            }
+        ],
+        "event": "Como React funciona"
+    }
+]

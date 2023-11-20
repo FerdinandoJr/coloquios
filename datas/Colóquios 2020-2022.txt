@@ -1,0 +1,42 @@
+04/03/2020		André			História da Computação	
+04/03/2020		Miguel			História da Computação	
+25/11/2020		Bruno Werner		Robot Operating System (ROS), chegando na Skynet
+02/12/2020		Vinícius Gasparini	Listas, Filas e Pilhas - O que é, e como utilizar para problemas em grafos
+09/12/2020		Paula Campigotto	Computação Natural e Mercado Financeiro
+16/12/2020		Rafael Granza de Mello	Aritmética Modular - Aprendendo a ver horas com Fermat
+10/02/2021		Alan Fachini		Pray -> Vote -> Stake - The age of decentralized consensus
+17/02/2021		Eliton Machado		Heavy-Light Decomposition
+24/02/2021		João Battisti		Mecanismos de consenso para Blockchain
+03/03/2021		Rafael Granza de Mello	Trie e suas aplicações
+10/03/2021		Lauro Gripa		O teclado será mais poderoso que a caneta
+17/03/2021		Adilson Jonck		Funções Geradoras
+26/05/2021		Robson Silva Júnior	0 to hero - smart contracts
+02/06/2021		Adilson Junior		Por que Programação Competitiva?
+02/06/2021		Vinícius Gasparini	Por que Programação Competitiva?
+22/06/2021		Paulo Torrens		Coindução e Bissimulação - Escrevedo provas sobre o infinito
+14/07/2021		Alan Fachini		Introduction to Rust
+21/07/2021		Maycon Amaro		Gradual Typing - The best of both worlds
+28/07/2021		Juarez Sampaio		My first F# dollar
+11/08/2021		Ferdinando Galera	A uma Breve História dos BOTs nos Jogos
+13/10/2021		Eliton Machado		Binômio de Newton: de combinação a polinômios infinitos
+27/20/2021		Rafael Granza de Mello	Encontrando sub-strings palíndromas
+10/11/2021		Igor Froehner		Merkle Tree: criptografia, bitcoin e descentralização
+23/11/2021		Arthur Cavalcanti	Jogando com Blockchain
+16/03/2022		Rafael Castro		Métodos Formais: uma visão pessoal
+13/04/2022		Eliton Machado		Balões, Fama e Desespero
+27/04/2022		Rafael Granza de Mello	Cuidados e carinhos com o ponto flutuante
+11/05/2022		Renan Samuel Silva	Colosseum: Uma maratona de IAs
+25/05/2022		Pedro Vargas Tannuri	Esse colóquio não tem nome
+08/06/2022		Gabriel Junkes		LineageOS: Retomando o controle do seu celular
+22/06/2022		Igor Froehner		Ninguém aguenta mais cripto: por que existem tantas?
+06/07/2022		João Vitor Frohlich	Minha experiência como setter na maratona
+17/08/2022		Arthur Yan Merkle	Por que não ensinam pentest e hacking ético nas universidades brasileiras?
+24/08/2022		Paulo Torrens		Compilando com Continuações
+31/08/2022		Paulo Henrique		Haking: Da Brincadeira à Guerra Digital
+31/08/2022		Gabriel Junkes		Haking: Da Brincadeira à Guerra Digital
+14/09/2022		Gustavo Camargo		A queda de Python: Uma apresentação sobre Julia
+21/09/2022		João Guilherme		DEIXE DE SER TROUXA: Aprenda Linux
+21/09/2022		César Eduardo		DEIXE DE SER TROUXA: Aprenda Linux
+28/09/2022		João Dematte		Como React funciona
+26/10/2022		Eliton Machado		Rust: A linguagem dos próximos 50 anos
+23/11/2022		Adilson Krischanski	Comportamentos emergentes em sistemas multi-robóticos através de técnicas de inteligência artificial

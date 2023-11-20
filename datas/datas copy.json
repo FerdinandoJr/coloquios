@@ -1,0 +1,272 @@
+[
+    {
+        "date": "25/11/2020",
+        "speakers": [
+            {
+                "name": "Bruno Werner",
+                "birth_date": "12/05/1998",
+                "cpf": "01352225913"
+            }
+        ],
+        "event": "Robot Operating System (ROS), chegando na Skynet"
+    },
+    {
+        "date": "02/12/2020",
+        "speakers": [
+            {
+                "name": "Vinícius Gasparini",
+                "birth_date": "28/05/1996",
+                "cpf": "09584682903"
+            }
+        ],
+        "event": "Listas, Filas e Pilhas - O que é, e como utilizar para problemas em grafos"
+    },
+    {
+        "date": "16/12/2020",
+        "speakers": [
+            {
+                "name": "Rafael Granza de Mello",
+                "birth_date": "02/04/1999",
+                "cpf": "11089411928"
+            }
+        ],
+        "event": "Aritmética Modular - Aprendendo a ver horas com Fermat"
+    },
+    {
+        "date": "17/02/2021",
+        "speakers": [
+            {
+                "name": "Eliton Machado",
+                "birth_date": "19/08/2001",
+                "cpf": "12593156902"
+            }
+        ],
+        "event": "Heavy-Light Decomposition"
+    },
+    {
+        "date": "03/03/2021",
+        "speakers": [
+            {
+                "name": "Rafael Granza de Mello",
+                "birth_date": "02/04/1999",
+                "cpf": "11089411928"
+            }
+        ],
+        "event": "Trie e suas aplicações"
+    },
+    {
+        "date": "10/03/2021",
+        "speakers": [
+            {
+                "name": "Lauro Gripa Neto",
+                "birth_date": "24/04/1990",
+                "cpf": "07584442900"
+            }
+        ],
+        "event": "O teclado será mais poderoso que a caneta"
+    },
+    {
+        "date": "17/03/2021",
+        "speakers": [
+            {
+                "name": "Adilson Luis Jonck Junior ",
+                "birth_date": "18/04/1997",
+                "cpf": "09960954978"
+            }
+        ],
+        "event": "Funções Geradoras"
+    },
+    {
+        "date": "11/08/2021",
+        "speakers": [
+            {
+                "name": "Ferdinando Augusto Galera Junior",
+                "birth_date": "13/09/2000",
+                "cpf": "46454587878"
+            }
+        ],
+        "event": "A uma Breve História dos BOTs nos Jogos"
+    },
+    {
+        "date": "13/10/2021",
+        "speakers": [
+            {
+                "name": "Eliton Machado",
+                "birth_date": "19/08/2001",
+                "cpf": "12593156902"
+            }
+        ],
+        "event": "Binômio de Newton: de combinação a polinômios infinitos"
+    },
+    {
+        "date": "27/10/2021",
+        "speakers": [
+            {
+                "name": "Rafael Granza de Mello",
+                "birth_date": "02/04/1999",
+                "cpf": "11089411928"
+            }
+        ],
+        "event": "Encontrando sub-strings palíndromas"
+    },
+    {
+        "date": "10/11/2021",
+        "speakers": [
+            {
+                "name": "Igor Schiessl Froehner",
+                "birth_date": "14/08/2000",
+                "cpf": "10064862917"
+            }
+        ],
+        "event": "Merkle Tree: criptografia, bitcoin e descentralização"
+    },
+    {
+        "date": "23/11/2021",
+        "speakers": [
+            {
+                "name": "Arthur Henrique Cavalcanti",
+                "birth_date": "10/11/2001",
+                "cpf": "09068735926"
+            }
+        ],
+        "event": "Jogando com Blockchain"
+    },
+    {
+        "date": "16/03/2022",
+        "speakers": [
+            {
+                "name": "Rafael Castro",
+                "birth_date": "14/10/1993",
+                "cpf": "08837093926"
+            }
+        ],
+        "event": "Métodos Formais: uma visão pessoal"
+    },
+    {
+        "date": "13/04/2022",
+        "speakers": [
+            {
+                "name": "Eliton Machado",
+                "birth_date": "19/08/2001",
+                "cpf": "12593156902"
+            }
+        ],
+        "event": "Balões, Fama e Desespero"
+    },
+    {
+        "date": "27/04/2022",
+        "speakers": [
+            {
+                "name": "Rafael Granza de Mello",
+                "birth_date": "02/04/1999",
+                "cpf": "11089411928"
+            }
+        ],
+        "event": "Cuidados e carinhos com o ponto flutuante"
+    },
+    {
+        "date": "25/05/2022",
+        "speakers": [
+            {
+                "name": "Pedro Vargas Tannuri",
+                "birth_date": "02/05/2003",
+                "cpf": "09066083921"
+            }
+        ],
+        "event": "Esse colóquio não tem nome"
+    },
+    {
+        "date": "08/06/2022",
+        "speakers": [
+            {
+                "name": "Gabriel Felipe Junkes",
+                "birth_date": "28/02/2002",
+                "cpf": "12847318484"
+            }
+        ],
+        "event": "LineageOS: Retomando o controle do seu celular"
+    },
+    {
+        "date": "22/06/2022",
+        "speakers": [
+            {
+                "name": "Igor Schiessl Froehner",
+                "birth_date": "14/08/2000",
+                "cpf": "10064862917"
+            }
+        ],
+        "event": "Ninguém aguenta mais cripto: por que existem tantas?"
+    },
+    {
+        "date": "06/07/2022",
+        "speakers": [
+            {
+                "name": "João Vitor Frohlich",
+                "birth_date": "22/07/2000",
+                "cpf": "09520948945"
+            }
+        ],
+        "event": "Minha experiência como setter na maratona"
+    },
+    {
+        "date": "17/08/2022",
+        "speakers": [
+            {
+                "name": "Arthur Yan Merkle",
+                "birth_date": "09/08/1994",
+                "cpf": "09437448906"
+            }
+        ],
+        "event": "Por que não ensinam pentest e hacking ético nas universidades brasileiras?"
+    },
+    {
+        "date": "31/08/2022",
+        "speakers": [
+            {
+                "name": "Paulo Henrique Gonçalves",
+                "birth_date": "24/01/2002",
+                "cpf": "12525478975"
+            },
+            {
+                "name": "Gabriel Felipe Junkes",
+                "birth_date": "28/02/2002",
+                "cpf": "12847318484"
+            }
+        ],
+        "event": "Haking: Da Brincadeira à Guerra Digital"
+    },
+    {
+        "date": "14/09/2022",
+        "speakers": [
+            {
+                "name": "Gustavo Michels de Camargo",
+                "birth_date": "18/05/1998",
+                "cpf": "10865163979"
+            }
+        ],
+        "event": "A queda de Python: Uma apresentação sobre Julia"
+    },
+    {
+        "date": "26/10/2022",
+        "speakers": [
+            {
+                "name": "Eliton Machado",
+                "birth_date": "19/08/2001",
+                "cpf": "12593156902"
+            }
+        ],
+        "event": "Rust: A linguagem dos próximos 50 anos"
+    },
+    {
+        "date": "23/11/2022",
+        "speakers": [
+            {
+                "name": "Adilson Krischanski",
+                "birth_date": "15/03/2001",
+                "cpf": "10147222923"
+            }
+        ],
+        "event": "Comportamentos emergentes em sistemas multi-robóticos através de técnicas de inteligência artificial"
+    }
+]
+  

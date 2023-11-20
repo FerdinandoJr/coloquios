@@ -1,0 +1,50 @@
+Colóquios 2020
+04/03		História da Computação		André e Miguel
+
+
+25/11		Bruno Werner		Robot Operating System (ROS), chegando na Skynet
+02/12		Vinícius Gasparini	Listas, Filas e Pilhas - O que é, e como utilizar para problemas em grafos
+09/12		Paula Campigotto	Computação Natural e Mercado Financeiro
+16/12		Rafael Granza de Mello	Aritmética Modular - Aprendendo a ver horas com Fermat
+
+
+
+Colóquios 2021
+10/02		Alan Fachini		Pray -> Vote -> Stake - The age of decentralized consensus
+17/02		Eliton Machado		Heavy-Light Decomposition
+24/02		João Battisti		Mecanismos de consenso para Blockchain
+03/03		Rafael Granza de Mello	Trie e suas aplicações
+10/03		Lauro Gripa		O teclado será mais poderoso que a caneta
+17/03		Adilson Jonck		Funções Geradoras
+26/05		Robson Silva Júnior	0 to hero - smart contracts
+02/06		Adilson Junior e Vinícius Gasparini		Por que Programação Competitiva?
+22/06		Paulo Torrens		Coindução e Bissimulação - Escrevedo provas sobre o infinito
+14/07		Alan Fachini		Introduction to Rust
+21/07		Maycon Amaro		Gradual Typing - The best of both worlds
+28/07		Juarez Sampaio		My first F# dollar
+11/08		Ferdinando Galera	A uma Breve História dos BOTs nos Jogos
+13/10		Eliton Machado		Binômio de Newton: de combinação a polinômios infinitos
+27/20		Rafael Granza de Mello	Encontrando sub-strings palíndromas
+10/11		Igor Froehner		Merkle Tree: criptografia, bitcoin e descentralização
+23/11		Arthur Cavalcanti	Jogando com Blockchain
+
+
+
+
+Colóquios 2022
+16/03		Rafael Castro		Métodos Formais: uma visão pessoal
+13/04		Eliton Machado		Balões, Fama e Desespero
+27/04		Rafael Granza de Mello	Cuidados e carinhos com o ponto flutuante
+11/05		Renan Samuel Silva	Colosseum: Uma maratona de IAs
+25/05		Pedro Vargas Tannuri	Esse colóquio não tem nome
+08/06		Gabriel Junkes		LineageOS: Retomando o controle do seu celular
+22/06		Igor Froehner		Ninguém aguenta mais cripto: por que existem tantas?
+06/07		João Vitor Frohlich	Minha experiência como setter na maratona
+17/08		Arthur Yan Merkle	Por que não ensinam pentest e hacking ético nas universidades brasileiras?
+24/08		Paulo Torrens		Compilando com Continuações
+31/08		Paulo Henrique e Gabriel Junkes	Haking: Da Brincadeira à Guerra Digital
+14/09		Gustavo Camargo		A queda de Python: Uma apresentação sobre Julia
+21/09		João Guilherme e César Eduardo	DEIXE DE SER TROUXA: Aprenda Linux
+28/09		João Dematte		Como React funciona
+26/10		Eliton Machado		Rust: A linguagem dos próximos 50 anos
+23/11		Adilson Krischanski	Comportamentos emergentes em sistemas multi-robóticos através de técnicas de inteligência artificial
