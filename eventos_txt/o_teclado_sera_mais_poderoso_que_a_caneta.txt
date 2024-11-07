@@ -1,0 +1,8 @@
+Data: 10/03/2021
+Evento: O teclado será mais poderoso que a caneta
+
+Palestrantes:
+  Nome: Lauro Gripa Neto
+  Data de Nascimento: 24/04/1990
+  CPF: 075.844.429-00
+

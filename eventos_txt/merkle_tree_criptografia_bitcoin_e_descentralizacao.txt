@@ -1,0 +1,8 @@
+Data: 10/11/2021
+Evento: Merkle Tree: criptografia, bitcoin e descentralização
+
+Palestrantes:
+  Nome: Igor Schiessl Froehner
+  Data de Nascimento: 14/08/2000
+  CPF: 100.648.629-17
+

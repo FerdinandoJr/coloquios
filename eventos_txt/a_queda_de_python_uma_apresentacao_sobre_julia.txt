@@ -1,0 +1,8 @@
+Data: 14/09/2022
+Evento: A queda de Python: Uma apresentação sobre Julia
+
+Palestrantes:
+  Nome: Gustavo Michels de Camargo
+  Data de Nascimento: 18/05/1998
+  CPF: 108.651.639-79
+

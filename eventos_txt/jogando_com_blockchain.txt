@@ -1,0 +1,8 @@
+Data: 23/11/2021
+Evento: Jogando com Blockchain
+
+Palestrantes:
+  Nome: Arthur Henrique Cavalcanti
+  Data de Nascimento: 10/11/2001
+  CPF: 090.687.359-26
+

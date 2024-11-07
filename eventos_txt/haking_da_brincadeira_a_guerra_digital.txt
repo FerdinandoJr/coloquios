@@ -1,0 +1,12 @@
+Data: 31/08/2022
+Evento: Haking: Da Brincadeira à Guerra Digital
+
+Palestrantes:
+  Nome: Paulo Henrique Gonçalves
+  Data de Nascimento: 24/01/2002
+  CPF: 125.254.789-75
+
+  Nome: Gabriel Felipe Junkes
+  Data de Nascimento: 28/02/2002
+  CPF: 128.473.184-84
+

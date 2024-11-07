@@ -1,0 +1,8 @@
+Data: 08/06/2022
+Evento: LineageOS: Retomando o controle do seu celular
+
+Palestrantes:
+  Nome: Gabriel Felipe Junkes
+  Data de Nascimento: 28/02/2002
+  CPF: 128.473.184-84
+

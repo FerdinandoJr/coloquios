@@ -1,0 +1,8 @@
+Data: 23/11/2022
+Evento: Comportamentos emergentes em sistemas multi-robóticos através de técnicas de inteligência artificial
+
+Palestrantes:
+  Nome: Adilson Krischanski
+  Data de Nascimento: 15/03/2001
+  CPF: 101.472.229-23
+

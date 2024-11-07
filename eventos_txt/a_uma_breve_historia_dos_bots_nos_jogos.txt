@@ -1,0 +1,8 @@
+Data: 11/08/2021
+Evento: A uma Breve História dos BOTs nos Jogos
+
+Palestrantes:
+  Nome: Ferdinando Augusto Galera Junior
+  Data de Nascimento: 13/09/2000
+  CPF: 464.545.878-78
+

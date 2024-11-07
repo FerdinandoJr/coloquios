@@ -1,0 +1,8 @@
+Data: 03/03/2021
+Evento: Trie e suas aplicações
+
+Palestrantes:
+  Nome: Rafael Granza de Mello
+  Data de Nascimento: 02/04/1999
+  CPF: 110.894.119-28
+

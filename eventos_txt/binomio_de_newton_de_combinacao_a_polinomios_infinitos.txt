@@ -1,0 +1,8 @@
+Data: 13/10/2021
+Evento: Binômio de Newton: de combinação a polinômios infinitos
+
+Palestrantes:
+  Nome: Eliton Machado
+  Data de Nascimento: 19/08/2001
+  CPF: 125.931.569-02
+

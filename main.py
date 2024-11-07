@@ -14,7 +14,7 @@ from entities.speaker import Speaker
 
 
 # Substitua 'caminho_do_arquivo_json' pelo caminho do seu arquivo JSON
-caminho_do_arquivo_json = 'C:\\Users\\junio\\Documents\\certificados\\datas\\datas.json'
+caminho_do_arquivo_json = 'C:\\Users\\junio\\OneDrive\\Documentos\\GitHub\\gerador_de_certificados\\datas\\datas.json'
 
 # Ler o arquivo JSON
 with open(caminho_do_arquivo_json, 'r', encoding='utf-8') as file:
@@ -96,7 +96,7 @@ for colloquium in colloquiums :
     time.sleep(timeDelay)
 
     # Modelo de certificado (upload de arquivo)
-    webBrowser.find_element(By.ID, "arquivo[35]").send_keys(r"C:\Users\junio\Documents\certificados\model\modelo.pdf")
+    webBrowser.find_element(By.ID, "arquivo[35]").send_keys(r"C:\Users\junio\OneDrive\Documentos\GitHub\gerador_de_certificados\model\modelo.pdf")
     time.sleep(timeDelay)
 
     elemento_encontrado = False

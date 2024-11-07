@@ -1,0 +1,8 @@
+Data: 16/03/2022
+Evento: Métodos Formais: uma visão pessoal
+
+Palestrantes:
+  Nome: Rafael Castro
+  Data de Nascimento: 14/10/1993
+  CPF: 088.370.939-26
+

@@ -1,0 +1,8 @@
+Data: 26/10/2022
+Evento: Rust: A linguagem dos próximos 50 anos
+
+Palestrantes:
+  Nome: Eliton Machado
+  Data de Nascimento: 19/08/2001
+  CPF: 125.931.569-02
+

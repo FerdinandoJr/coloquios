@@ -1,0 +1,8 @@
+Data: 27/04/2022
+Evento: Cuidados e carinhos com o ponto flutuante
+
+Palestrantes:
+  Nome: Rafael Granza de Mello
+  Data de Nascimento: 02/04/1999
+  CPF: 110.894.119-28
+

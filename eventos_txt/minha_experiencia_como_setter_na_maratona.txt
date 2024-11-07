@@ -1,0 +1,8 @@
+Data: 06/07/2022
+Evento: Minha experiência como setter na maratona
+
+Palestrantes:
+  Nome: João Vitor Frohlich
+  Data de Nascimento: 22/07/2000
+  CPF: 095.209.489-45
+
